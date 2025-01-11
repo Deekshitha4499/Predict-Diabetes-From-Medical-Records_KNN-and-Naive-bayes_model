@@ -1,0 +1,1 @@
+# Predict-Diabetes-From-Medical-Records_KNN-and-Naive-bayes_model
